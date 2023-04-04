@@ -5491,10 +5491,6 @@ md5.js@^1.3.4:
   version "1.3.5"
   resolved "https://registry.npm.taobao.org/md5.js/download/md5.js-1.3.5.tgz#b5d07b8e3216e3e27cd728d72f70d1e6a342005f"
   integrity sha1-tdB7jjIW4+J81yjXL3DR5qNCAF8=
-  dependencies:
-    hash-base "^3.0.0"
-    inherits "^2.0.1"
-    safe-buffer "^5.1.2"
 
 md5@2.2.1:
   version "2.2.1"
@@ -8556,10 +8552,15 @@ vssue@^1.4.6:
     vue-i18n "^8.11.2"
     vue-property-decorator "^8.1.1"
 
-vue-class-component@^7.1.0, vue-class-component@^7.2.3:
+vue-class-component@^7.1.0:
   version "7.2.5"
   resolved "https://registry.npm.taobao.org/vue-class-component/download/vue-class-component-7.2.5.tgz#212b3548c4fdd3314774c4adbc1c3792a40b52d0"
   integrity sha1-ISs1SMT90zFHdMStvBw3kqQLUtA=
+
+vue-class-component@^7.2.6:
+  version "7.2.6"
+  resolved "https://registry.yarnpkg.com/vue-class-component/-/vue-class-component-7.2.6.tgz#8471e037b8e4762f5a464686e19e5afc708502e4"
+  integrity sha512-+eaQXVrAm/LldalI272PpDe3+i4mPis0ORiMYxF6Ae4hyuCh15W8Idet7wPUEs4N4YptgFHGys4UrgNQOMyO6w==
 
 vue-click-outside@1.1.0:
   version "1.1.0"
